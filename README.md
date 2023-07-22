@@ -1,2 +1,2 @@
 # Miss_Ousada_E-commerce_Website
-My first e-commerce home page template built from scratch
+My first e-commerce home pages template built from scratch
